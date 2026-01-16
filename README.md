@@ -43,6 +43,8 @@ The `seed_logistics.py` script generates operationally realistic data:
 
 ### Power BI Dashboard
 
+![The Dashboard](images/Logistics_Project.pdf)
+
 Direct-query connection to PostgreSQL optimized through star schema architecture.
 
 **Advanced analytics features:**
